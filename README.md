@@ -17,5 +17,5 @@
   - To put the algorithms to the test, a small time horizon is largely sufficient. Moreover, fast convergence is one of the key aspects for incremental learning purposes. If the aim is to provide operationally decent algorithms, we cannot allow for significant losses during the initial phase of convergence;
   - Many useful extensions for the above-mentioned methods are already implemented here: https://github.com/PaoloBiolghini/OnlineLearningProject. 
 
-### Thank you for your attention,
+__Thank you for your attention__. Feel free to contact me for any issue, doubt or comment.
 Michele Sparviero
