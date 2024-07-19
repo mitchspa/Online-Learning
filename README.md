@@ -1,4 +1,4 @@
-# Welcome.
+# Welcome!
 ## This repository is intended to:
 - provide tools for Online Learning methodologies;
 - provide trading applications thanks to a GBM-like synthetic stream of financial data;
