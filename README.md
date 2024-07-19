@@ -1,3 +1,4 @@
+# Welcome.
 ## This repository is intended to:
 - provide tools for Online Learning methodologies;
 - provide trading applications thanks to a GBM-like synthetic stream of financial data;
@@ -15,3 +16,6 @@
   Note that:
   - To put the algorithms to the test, a small time horizon is largely sufficient. Moreover, fast convergence is one of the key aspects for incremental learning purposes. If the aim is to provide operationally decent algorithms, we cannot allow for significant losses during the initial phase of convergence;
   - Many useful extensions for the above-mentioned methods are already implemented here: https://github.com/PaoloBiolghini/OnlineLearningProject. 
+
+### Thank you for your attention,
+Michele Sparviero
