@@ -18,4 +18,5 @@
   - Many useful extensions for the above-mentioned methods are already implemented here: https://github.com/PaoloBiolghini/OnlineLearningProject. 
 
 __Thank you for your attention__. Feel free to contact me for any issue, doubt or comment.
+
 Michele Sparviero
