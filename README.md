@@ -7,4 +7,11 @@
 - provide brand new methodologies for trading strategies. In fact, the current scope is only related to the implementation of state-of-art methods.
 
 ## Current State of the Work:
-- in the 
+- In the Benchmarks folder you can find:
+  - agent.py, which includes the classes "portfolio" and "stream" to properly return RL-like losses/rewards and simulate a financial environment, respectively;
+  - benchmarks.py, which includes the UCB, TS, and BuyAndHold classes to provide Online Learning models;
+  - Benchmark_Testing.ipynb, which shows the performance of the above methodologies.
+    
+  Note that:
+  - To put the algorithms to the test, a small time horizon is largely sufficient. Moreover, fast convergence is one of the key aspects for incremental learning purposes. If the aim is to provide operationally decent algorithms, we cannot allow for significant losses during the initial phase of convergence;
+  - Many useful extensions for the above-mentioned methods are already implemented here: https://github.com/PaoloBiolghini/OnlineLearningProject. 
